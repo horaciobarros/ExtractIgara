@@ -1,6 +1,6 @@
 package br.com.jway.igaratiinga.view;
 
-import br.com.igaratinga.controller.Controller;
+import br.com.jway.igaratinga.controller.Controller;
 
 public class PrincipalIgaratinga {
 	
