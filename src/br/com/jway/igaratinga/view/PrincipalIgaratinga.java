@@ -1,4 +1,4 @@
-package br.com.jway.igaratiinga.view;
+package br.com.jway.igaratinga.view;
 
 import br.com.jway.igaratinga.controller.Controller;
 
