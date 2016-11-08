@@ -1,4 +1,4 @@
-package br.com.igaratinga.controller;
+package br.com.jway.igaratinga.controller;
 
 import java.util.List;
 
